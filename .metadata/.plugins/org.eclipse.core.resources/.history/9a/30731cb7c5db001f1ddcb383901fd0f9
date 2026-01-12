@@ -1,0 +1,15 @@
+"""
+------------------------------------------------------------------------
+[program description]
+------------------------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2025-01-26"
+------------------------------------------------------------------------
+"""
+# Imports
+from functions import reroute
+
+print(reroute("SSXSSXXX", [1, 2, 3, 4]))  # Output: [2, 4, 3, 1]
+print(reroute("SSXX", [1, 2]))  # Output: [2, 1]

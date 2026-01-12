@@ -1,0 +1,31 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 164\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_a09\com.python.pydev.analysis\v2_indexcache
+Word|1742705901170692600|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a09\src\Word.py
+functions|1742715289983720300|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a09\src\functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+4=Word
+2=functions
+1=C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a09\src\functions.py
+5=Word.__init__
+3=C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a09\src\Word.py
+-- END DICTIONARY
+-- START TREE 1
+3
+com|1|comparison_total!1^51#5*18@
+ins|1|insert_words!1^18#5*18@
+wor|1|Word!3^14#7*33@
+-- END TREE
+-- START TREE 2
+8
+__e|1|__eq__!4&3^46#9*34@
+__g|2|__ge__!4&3^115#9*34@__gt__!4&3^80#9*34@
+__h|1|__hash__!4&3^133#9*34@
+__i|1|__init__!4&3^16#9*34@
+__l|2|__lt__!4&3^63#9*34@__le__!4&3^97#9*34@
+__s|1|__str__!4&3^33#9*34@
+com|1|comparisons!5&3^31#9*35@
+wor|1|word!5&3^30#9*35@
+-- END TREE

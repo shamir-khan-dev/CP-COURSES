@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 164\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_a02\com.python.pydev.analysis\v2_indexcache
+t01|1737269430000000000|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t01.py
+t03|1737270323000000000|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t03.py
+t02|1737269213000000000|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t02.py
+t05|1737275644000000000|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t05.py
+t04|1737273668000000000|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+1=C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t01.py
+2=t01
+5=C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t03.py
+7=C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t02.py
+3=C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t04.py
+6=t03
+8=t02
+9=C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_a02\src\t05.py
+10=t05
+4=t04
+-- END DICTIONARY
+-- START TREE 1
+2
+a|1|a!1^19#1*19@
+mov|5|movies!3^17#1*35@movies!5^17#1*51@movies!7^17#1*67@movies!1^17#1*19@movies!9^16#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;khan4465_data_structures/src/BST_linked.py&apos;" deleteContents="false" description="Delete resource &apos;khan4465_data_structures/src/BST_linked.py&apos;" element1="/khan4465_data_structures/src/BST_linked.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1742014635739"/>
+</session>

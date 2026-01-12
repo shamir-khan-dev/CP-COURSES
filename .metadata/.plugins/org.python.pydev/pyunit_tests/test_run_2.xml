@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+    <summary errors="1" failures="0" finished="true" name="Test Run: 2" tests="0" total_time="Finished in: 0.00 secs."/>
+    <test location="C:\Users\abcd\OneDrive\Desktop\cp 164\khan4465_a02\src\t03.py" status="error" test="t03" time="0">
+        <stdout/>
+        <stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\abcd\eclipse\eclipse\plugins\org.python.pydev.core_12.2.0.202409031913\pysrc\_pydev_runfiles\pydev_runfiles.py", line 469, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Users\abcd\OneDrive\Desktop\cp 164\khan4465_a02\src\t03.py", line 19, in <module>
+    print(get_by_genre(movies,3))
+  File "C:\Users\abcd\OneDrive\Desktop\cp 164\khan4465_data_structures\src\Movie_utilities.py", line 273, in get_by_genre
+    for y in range(len(movies[x].genres[y])):
+UnboundLocalError: local variable 'y' referenced before assignment
+ERROR: Module: t03 could not be imported (file: C:\Users\abcd\OneDrive\Desktop\cp 164\khan4465_a02\src\t03.py).
+]]></stderr>
+    </test>
+    <launch mode="run">
+        <launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="khan4465_a02 t03.py"/>
+]]></launch_memento>
+    </launch>
+</pydev-testsuite>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.python.pydev.ui.wizards.project.PythonProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.python.pydev.PythonCategory"/>
+		</list>
+		<section name="NewWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="429"/>
+			<item key="DIALOG_Y_ORIGIN" value="70"/>
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="563"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="WorkbenchPreferenceDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="11"/>
+		<item key="DIALOG_Y_ORIGIN" value="11"/>
+		<item key="DIALOG_WIDTH" value="1695"/>
+		<item key="DIALOG_HEIGHT" value="1128"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<section name="ImportExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="534"/>
+			<item key="DIALOG_Y_ORIGIN" value="153"/>
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\shami\Downloads\khan4465_e_202501.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_a09.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_l10.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_a08.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_l09.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_a07.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_l08.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_l06.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_m_202501.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_a05.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_l05.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_a04.zip"/>
+			<item value="C:\Users\shami\Downloads\khan4465_l04.zip"/>
+			<item value="C:downloads\khan4465_l04.zip"/>
+			<item value="C:\Users\abcd\Favorites\khan4465_l03.zip"/>
+			<item value="C:\Users\abcd\Favorites\khan4465_a02.zip"/>
+			<item value="C:\Users\abcd\Favorites\khan4465_l02.zip"/>
+		</list>
+		<section name="ZipFileExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="220"/>
+			<item key="DIALOG_Y_ORIGIN" value="133"/>
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="626"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

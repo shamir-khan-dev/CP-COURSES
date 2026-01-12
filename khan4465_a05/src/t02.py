@@ -1,0 +1,28 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Shamir Khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2025-02-09"
+-------------------------------------------------------
+"""
+# Imports
+from Sorted_List_array import Sorted_List
+# Constants
+
+# Test script for the Sorted_List class
+
+s1 = Sorted_List()
+
+print(s1)
+
+for x in range(10):
+    s1.insert(5)
+
+print(s1)
+
+print(s1._binary_search(5))
+
+print(s1._binary_search_to_the_right(5))

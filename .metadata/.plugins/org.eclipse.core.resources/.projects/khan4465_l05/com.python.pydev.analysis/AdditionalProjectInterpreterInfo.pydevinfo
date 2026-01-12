@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 164\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l05\com.python.pydev.analysis\v2_indexcache
+functions|1739003569145011600|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_l05\src\functions.py
+t01|1738996712677975500|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_l05\src\t01.py
+t03|1738998574207126300|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_l05\src\t03.py
+t02|1738998050689385100|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_l05\src\t02.py
+t05|1739000993133902200|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_l05\src\t05.py
+t04|1739000190429152000|C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_l05\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_l05\src\t04.py
+2=functions
+4=t04
+1=C:\Users\shami\OneDrive\Desktop\cp 164\khan4465_l05\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+7
+bag|1|bag_to_set!1^134#5*18@
+gcd|1|gcd!1^38#5*18@
+is_|1|is_palindrome!1^105#5*18@
+rec|1|recurse!1^15#5*18@
+tes|1|test_cases!3^24#1*35@
+to_|1|to_power!1^82#5*18@
+vow|1|vowel_count!1^58#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

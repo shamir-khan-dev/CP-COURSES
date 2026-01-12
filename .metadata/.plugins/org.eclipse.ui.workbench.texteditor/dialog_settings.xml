@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="org.eclipse.ui.texteditor.templates.TemplatePreferencePage$EditTemplateDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="386"/>
+		<item key="DIALOG_Y_ORIGIN" value="152"/>
+		<item key="DIALOG_WIDTH" value="995"/>
+		<item key="DIALOG_HEIGHT" value="508"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="is_balanced"/>
+			<item value="__eq__"/>
+			<item value="debug"/>
+			<item value="is_em"/>
+			<item value="SEP"/>
+			<item value="def clean"/>
+			<item value="def re"/>
+			<item value="def comb"/>
+			<item value="def __getitem__"/>
+			<item value="def __eq"/>
+			<item value="def index"/>
+			<item value="def __se"/>
+			<item value="def __"/>
+			<item value="def _linear_search"/>
+			<item value="def fill_letter_bst "/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="567"/>
+		<item key="DIALOG_Y_ORIGIN" value="368"/>
+	</section>
+</section>

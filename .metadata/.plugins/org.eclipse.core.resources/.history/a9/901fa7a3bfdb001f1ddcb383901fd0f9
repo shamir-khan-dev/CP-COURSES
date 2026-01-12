@@ -1,0 +1,125 @@
+"""
+------------------------------------------------------------------------
+[program description]
+------------------------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2025-01-26"
+------------------------------------------------------------------------
+"""
+# Imports
+
+from Stack_array import Stack
+from pickle import TRUE
+
+def stack_split_alt(source):
+    """
+    -------------------------------------------------------
+    Splits the source stack into separate target stacks.
+    When finished source stack is empty. Values are
+    pushed alternately onto the returned target stacks.
+    Use: target1, target2 = stack_split_alt(source)
+    -------------------------------------------------------
+    Parameters:
+        source - the stack to split into two parts (Stack)
+    Returns:
+        target1 - contains alternating values from source (Stack)
+        target2 - contains other alternating values from source (Stack)
+    -------------------------------------------------------
+    """
+    
+    stack1 = Stack()
+    stack2 = Stack()
+    
+    while(source.is_empty() == False):
+        stack1.push(source.pop())
+        if(source.is_empty() == False):
+            stack2.push(source.pop())
+    return stack1,stack2
+
+
+def stack_reverse(source):
+    """
+    -------------------------------------------------------
+    Reverses the contents of a stack.
+    Use: stack_reverse(source)
+    -------------------------------------------------------
+    Parameters:
+        source - a Stack (Stack)
+    Returns:
+        None
+    -------------------------------------------------------
+    """
+    new_stack = []
+    
+    while(source.is_empty() == False):
+        new_stack.append(source.pop())
+    
+    for x in range(len(new_stack)):
+        source.push(new_stack[x])
+    return None
+
+def is_palindrome_stack(string):
+    """
+    -------------------------------------------------------
+    Determines if string is a palindrome. Ignores case, digits, spaces, and
+    punctuation in string.
+    Use: palindrome = is_palindrome_stack(string)
+    -------------------------------------------------------
+    Parameters:
+        string - a string (str)
+    Returns:
+        palindrome - True if string is a palindrome, False otherwise (bool)
+    -------------------------------------------------------
+    """
+    
+    s1 = Stack()
+    new_string = ""
+    con = False
+    i = 0
+    for x in range(len(string)):
+        if(string[x].isalpha() == True):
+            new_string+= string[x].lower()
+    for x in range(len(new_string)):
+        s1.push(new_string[x])
+    for x in range(len(new_string)):
+        if(new_string[x] == s1.pop()):
+            i+=1
+    if(i == len(new_string)):
+        con = True
+    return con
+
+# Constants
+OPERATORS = "+-*/"
+
+def postfix(string):
+    """
+    -------------------------------------------------------
+    Evaluates a postfix expression.
+    Use: answer = postfix(string)
+    -------------------------------------------------------
+    Parameters:
+        string - the postfix string to evaluate (str)
+    Returns:
+        answer - the result of evaluating string (float)
+    -------------------------------------------------------
+    """
+    
+    s1 = Stack()
+    
+    for x in range(len(string)):
+        if(string[x].isdigit() == True):
+            s1.push(int(string[x]))
+            
+        elif(string[x] == "-"):
+            result = ((s1.pop() - s1.pop())*-1)
+            s1.push(result)
+        elif(string[x] == "/"):
+            num = []
+            num.append(s1.pop())
+            num.append(s1.pop())         
+            result = ((num[1] - num[0])
+            s1.push(result)
+        
+        

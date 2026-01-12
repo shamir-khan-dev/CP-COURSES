@@ -1,0 +1,26 @@
+"""
+------------------------------------------------------------------------
+[program description]
+------------------------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2025-01-18"
+------------------------------------------------------------------------
+"""
+# Imports
+
+from utilities import array_to_stack
+
+from Stack_array import Stack
+
+
+stack = Stack()
+
+new_stack_as_list = []
+
+
+for x in range(10):
+    stack.push(x)
+    
+print(array_to_stack(stack,new_stack_as_list))

@@ -1,0 +1,17 @@
+"""
+------------------------------------------------------------------------
+[program description]
+------------------------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2025-01-26"
+------------------------------------------------------------------------
+"""
+# Imports
+
+from functions import is_palindrome_stack
+
+print(is_palindrome_stack("racecar")) 
+print(is_palindrome_stack("A man, a plan, a canal, Panama!")) 
+print(is_palindrome_stack("Able was I ere I saw Elba")) 
