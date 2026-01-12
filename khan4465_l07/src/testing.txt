@@ -1,0 +1,70 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  shamir khan
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+Version: 2024-11-01
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess: 50
+Too low, try again.
+Guess: 70
+Too low, try again.
+Guess: 90
+Too low, try again.
+Guess: 95
+Too low, try again.
+Guess: 100
+Too high, try again.
+Guess: 99
+Too high, try again.
+Guess: 98
+Too high, try again.
+Guess: 95
+Too low, try again.
+Guess: 96
+Too low, try again.
+Guess: 97
+Congratulations - good guess!
+You made 10 guesses.
+10
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+256
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+First positive value: 4.2
+Next positive value: 3.5
+Next positive value: 0
+Next positive value: 6.1
+Next positive value: -1
+(0.0, 6.1, 13.8, 3.45)
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter an expense (0 to quit): $150
+Enter another expense (0 to quit): $23
+Enter another expense (0 to quit): $12
+Enter another expense (0 to quit): $15
+Enter another expense (0 to quit): $37
+Enter another expense (0 to quit): $60
+Enter another expense (0 to quit): $5.50
+Enter another expense (0 to quit): $0
+(302.5, -102.5, 'Deficit')
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 1
+Hourly wage rate: 0
+Hours worked: 0
+Net payment for employee 1: $0.00
+Employee ID: 0
+(0.0, 0.0)
+-------------------------------------------------------

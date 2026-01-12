@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l04\com.python.pydev.analysis\v2_indexcache
+functions|1728104738000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\functions.py
+t01|1727894266000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t01.py
+t12|1727912725000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t12.py
+t02|1728084639000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t02.py
+t05|1728089130000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t05.py
+t15|1727919451000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t15.py
+t08|1727896146000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+3=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t05.py
+6=functions
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t02.py
+7=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t01.py
+11=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t08.py
+5=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\functions.py
+13=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t15.py
+8=t01
+10=t12
+2=t02
+4=t05
+14=t15
+9=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l04\src\t12.py
+12=t08
+-- END DICTIONARY
+-- START TREE 1
+10
+c|2|c!1^16#1*19@c!3^16#1*35@
+c_t|1|c_to_f!5^91#5*50@
+cir|1|circumference!5^32#5*50@
+com|1|computer_costs!5^70#5*50@
+dia|2|diameter!5^17#5*50@diam!7^17#1*67@
+f|1|f!9^15#1*83@
+rig|1|right_triangle!5^47#5*50@
+t|1|t!11^15#1*99@
+tim|1|time_split!5^107#5*50@
+z|1|z!13^16#1*115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

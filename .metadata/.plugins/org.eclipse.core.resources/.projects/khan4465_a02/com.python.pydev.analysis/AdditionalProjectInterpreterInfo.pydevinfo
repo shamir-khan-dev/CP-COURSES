@@ -1,0 +1,47 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_a02\com.python.pydev.analysis\v2_indexcache
+t01|1727648178000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t01.py
+t03|1727649922000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t03.py
+t02|1727648324000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t02.py
+t05|1727655631000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t05.py
+t04|1727649922000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+2=t01
+5=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t03.py
+6=t03
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t01.py
+7=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t02.py
+8=t02
+4=t05
+9=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t04.py
+3=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a02\src\t05.py
+10=t04
+-- END DICTIONARY
+-- START TREE 1
+19
+ann|1|ANNUALTAX!1^14#1*19@
+bri|1|bricks_needed_for_walls!3^25#1*35@
+con|1|concrete_needed_for_foundation!3^21#1*35@
+cos|2|cost_of_bricks!3^18#1*35@cost_of_concrete!3^17#1*35@
+dat|1|date!5^14#1*51@
+day|1|day!5^18#1*51@
+dif|1|difference!7^20#1*67@
+fir|1|first!7^17#1*67@
+fly|2|flyers_per_delivery_person!9^17#1*83@flyers_left_over!9^18#1*83@
+fou|3|foundation_length!3^13#1*35@foundation_height!3^15#1*35@foundation_width!3^14#1*35@
+mon|1|month!5^20#1*51@
+num|2|number_of_flyers!9^14#1*83@number_of_delivery_people!9^15#1*83@
+sal|1|sales_amount!1^16#1*19@
+sec|1|second!7^18#1*67@
+toa|1|toal!1^18#1*19@
+tot|3|total!3^29#1*35@total_cost_of_concrete!3^23#1*35@total_cost_of_bricks!3^27#1*35@
+two|1|two_digits!7^14#1*67@
+wal|1|wall_height!3^16#1*35@
+yea|1|year!5^16#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

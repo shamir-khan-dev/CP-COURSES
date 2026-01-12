@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_a01\com.python.pydev.analysis\v2_indexcache
+t01|1727057725000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a01\src\t01.py
+t03|1727057725000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a01\src\t03.py
+t02|1727057725000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a01\src\t02.py
+t05|1727058003000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a01\src\t05.py
+t04|1727057725000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a01\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+7=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a01\src\t03.py
+3=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a01\src\t04.py
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a01\src\t02.py
+8=t03
+2=t02
+6=t05
+4=t04
+5=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a01\src\t05.py
+-- END DICTIONARY
+-- START TREE 1
+10
+age|1|age!1^14#1*19@
+amo|2|amount!3^15#1*35@amount!5^19#1*51@
+bra|1|brand!1^16#1*19@
+cos|1|cost!3^14#1*35@
+int|2|interest!5^15#1*51@interest_compounded_per_year!5^17#1*51@
+kil|1|kilometers!7^14#1*67@
+mil|1|miles!7^13#1*67@
+num|1|number_of_years!5^16#1*51@
+pri|1|principal!5^14#1*51@
+tot|1|total!3^17#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

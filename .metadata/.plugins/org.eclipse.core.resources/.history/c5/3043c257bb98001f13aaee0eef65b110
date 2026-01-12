@@ -1,0 +1,90 @@
+"""
+-------------------------------------------------------
+[Lab 7,functions]
+function which does various operations
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-01"
+-------------------------------------------------------
+"""
+# Imports
+
+from random import randint
+
+
+def hi_lo_game(high):
+    """
+    -------------------------------------------------------
+    Plays a random higher-lower guessing game.
+    Use: count = hi_lo_game(high)
+    -------------------------------------------------------
+    Parameters:
+        high - maximum random value (int > 1)
+    Returns:
+        count - the number of guesses the user made (int)
+    -------------------------------------------------------
+    
+    """
+    number = randint(1, high)
+    guesses = 1
+    guess = int(input("Guess: "))
+    
+    while(guess!=number):
+        if(guess>number):
+            print(f"""Too high, try again.""")
+            guess = int(input("Guess: "))
+            guesses+=1
+            
+        elif(guess<number):
+            print(f"""Too low, try again.""")
+            guess = int(input("Guess: "))
+            guesses+=1
+                
+    print(f"""Congratulations - good guess!
+You made {guesses} guesses.""")
+            
+    
+    return guesses         
+        
+def power_of_two(target):
+    """
+    -------------------------------------------------------
+    Determines the nearest power of 2 greater than or equal to
+    a given target.
+    Use: power = power_of_two(target)
+    -------------------------------------------------------
+    Parameters:
+        target - value to find nearest power of 2 (int >= 0)
+    Returns:
+        power - first power of 2 >= target (int)
+    -------------------------------------------------------
+    """
+    two_squared = 1
+    power = 0
+    while(two_squared < target):
+        power+=1
+        two_squared = 2**power
+    return 2**(power)
+
+def positive_statistics():
+    """
+    -------------------------------------------------------
+    Asks a user to enter a series of positive numbers, then calculates
+    and returns the minimum, maximum, total, and average of those numbers.
+    Stop processing values when the user enters a negative number.
+    The first number entered must be positive.
+    Use: minimum, maximum, total, average = positive_statistics()
+    -------------------------------------------------------
+    Returns:
+        minimum - smallest of the entered values (float)
+        maximum - largest of the entered values (float)
+        total - total of the entered values (float)
+        average - average of the entered values (float)
+    ------------------------------------------------------
+    """
+    
+    first_value = int(input("First positive value: ")) 
+           
+    

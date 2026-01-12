@@ -1,0 +1,15 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-03"
+-------------------------------------------------------
+"""
+# Imports
+
+from functions import factor_summation
+
+print(factor_summation(9))

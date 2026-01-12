@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l03\com.python.pydev.analysis\v2_indexcache
+t12|1727488218000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l03\src\t12.py
+t02|1727320901000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l03\src\t02.py
+t05|1727324336000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l03\src\t05.py
+t15|1727488178000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l03\src\t15.py
+t08|1727473983000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l03\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l03\src\t05.py
+8=t12
+4=t05
+2=t15
+7=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l03\src\t12.py
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l03\src\t15.py
+5=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l03\src\t08.py
+6=t08
+-- END DICTIONARY
+-- START TREE 1
+14
+dec|1|decimal!1^13#1*19@
+dif|1|diff!3^20#1*35@
+dir|1|dirt!5^14#1*51@
+fir|1|first!7^14#1*67@
+gra|1|gravel!5^15#1*51@
+int|1|integer!1^12#1*19@
+len|3|len_min!3^18#1*35@len_max!3^17#1*35@len_diff!3^21#1*35@
+max|1|maxs!3^15#1*35@
+min|1|mins!3^14#1*35@
+phr|1|phrase!1^14#1*19@
+san|1|sand!5^16#1*51@
+sec|1|second!7^15#1*67@
+thi|1|third!7^16#1*67@
+tot|2|total!5^19#1*51@Total!7^17#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

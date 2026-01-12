@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_a06\com.python.pydev.analysis\v2_indexcache
+functions|1730676415000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a06\src\functions.py
+t01|1730637849000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a06\src\t01.py
+t03|1730676264000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a06\src\t03.py
+t02|1730638973000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a06\src\t02.py
+t05|1730676260000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a06\src\t05.py
+t04|1730676264000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a06\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a06\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+cou|1|count_of_digits!1^114#5*18@
+det|1|detect_prime!1^44#5*18@
+fac|1|factor_summation!1^137#5*18@
+int|1|interest_table!1^70#5*18@
+tot|1|total_wins!1^14#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

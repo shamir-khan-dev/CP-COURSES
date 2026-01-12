@@ -1,0 +1,28 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-22"
+-------------------------------------------------------
+"""
+# Imports
+
+def customer_first(fh):
+    """
+    -------------------------------------------------------
+    Find the customer with the earliest sign-up date.
+    Assumes file is not empty.
+    Use: result = customer_first(fh)
+    -------------------------------------------------------
+    Parameters:
+        fh - file to search (file handle - already open for reading)
+    Returns:
+        result - the record with the earliest sign-in date (list)
+    -------------------------------------------------------
+    """
+    
+    customer_file = open('customers.txt', 'r')
+    list_of_files = 

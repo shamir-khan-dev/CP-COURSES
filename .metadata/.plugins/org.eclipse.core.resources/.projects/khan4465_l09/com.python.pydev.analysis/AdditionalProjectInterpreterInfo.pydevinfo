@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l09\com.python.pydev.analysis\v2_indexcache
+t10|1731732313000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l09\src\t10.py
+functions|1731732646000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l09\src\functions.py
+t01|1731728691000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l09\src\t01.py
+t03|1731729752000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l09\src\t03.py
+t14|1731732702000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l09\src\t14.py
+t07|1731730963000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l09\src\t07.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l09\src\functions.py
+2=functions
+-- END DICTIONARY
+-- START TREE 1
+5
+is_|1|is_hydroxide!1^15#5*18@
+par|1|parse_code!1^34#5*18@
+str|1|str_distance!1^105#5*18@
+tex|1|text_analyze!1^72#5*18@
+vow|1|vowel_count!1^53#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

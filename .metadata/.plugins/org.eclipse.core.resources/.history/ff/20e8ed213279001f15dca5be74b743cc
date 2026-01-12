@@ -1,0 +1,17 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-09-22"
+-------------------------------------------------------
+"""
+# Imports
+
+age = input("What is your age? ")
+
+brand = input("What is your favourite band?\n ")
+
+print("I am ", age, " years old and " + brand + " is my favourite band.")

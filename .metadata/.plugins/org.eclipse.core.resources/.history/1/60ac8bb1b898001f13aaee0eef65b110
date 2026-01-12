@@ -1,0 +1,71 @@
+"""
+-------------------------------------------------------
+[Lab 7,functions]
+function which does various operations
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-01"
+-------------------------------------------------------
+"""
+# Imports
+
+from random import randint
+
+
+def hi_lo_game(high):
+    """
+    -------------------------------------------------------
+    Plays a random higher-lower guessing game.
+    Use: count = hi_lo_game(high)
+    -------------------------------------------------------
+    Parameters:
+        high - maximum random value (int > 1)
+    Returns:
+        count - the number of guesses the user made (int)
+    -------------------------------------------------------
+    
+    """
+    number = randint(1, high)
+    guesses = 1
+    guess = int(input("Guess: "))
+    
+    while(guess!=number):
+        if(guess>number):
+            print(f"""Too high, try again.""")
+            guess = int(input("Guess: "))
+            guesses+=1
+            
+        elif(guess<number):
+            print(f"""Too low, try again.""")
+            guess = int(input("Guess: "))
+            guesses+=1
+                
+    print(f"""Congratulations - good guess!
+You made {guesses} guesses.""")
+            
+    
+    return guesses         
+        
+def power_of_two(target):
+    """
+    -------------------------------------------------------
+    Determines the nearest power of 2 greater than or equal to
+    a given target.
+    Use: power = power_of_two(target)
+    -------------------------------------------------------
+    Parameters:
+        target - value to find nearest power of 2 (int >= 0)
+    Returns:
+        power - first power of 2 >= target (int)
+    -------------------------------------------------------
+    """
+    power_of_two = 0
+    power = 0
+    while(power_of_two <= target):
+        power_of_two = 2^power
+        power+=1
+    return 2^(power+2)
+        
+    

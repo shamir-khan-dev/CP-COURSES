@@ -1,0 +1,69 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-03"
+-------------------------------------------------------
+"""
+# Imports
+import string
+from pickle import TRUE
+
+def total_wins():
+    """
+    -------------------------------------------------------
+    returns two numbers representing how many times the string "purple" appeared in the input and how many times the string "gold" appeared in the input.
+    Use: result = total_wins()
+    -------------------------------------------------------
+    Parameters:
+
+    Returns:
+        amount of purple and gold - (int)
+    ------------------------------------------------------
+    """
+    
+    purple_total = 0
+    
+    gold_total = 0
+    
+    user_choice = input("Enter the winning team: ")
+    
+    while(user_choice != ""):
+        
+        if(user_choice == "purple"):
+            purple_total+=1
+        elif(user_choice == "gold"):
+            gold_total+=1
+        
+        user_choice = input("Enter the winning team: ")   
+    
+    return purple_total,gold_total
+
+def detect_prime(number):
+    """
+    -------------------------------------------------------
+    Determines if number is a prime number.
+    Use: prime = detect_prime(number)
+    -------------------------------------------------------
+    Parameters:
+        number - an integer (int > 1)
+    Returns:
+        prime - True if number is prime, False otherwise (bool)
+    ------------------------------------------------------
+    """
+    
+    status = True
+    
+    while(number != str):
+        
+        if(number%2 == 0):
+            status = False 
+        else:
+            status = True
+    
+    return status
+                    
+        

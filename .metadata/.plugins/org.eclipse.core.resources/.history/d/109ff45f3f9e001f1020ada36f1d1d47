@@ -1,0 +1,73 @@
+"""
+-------------------------------------------------------
+[Lab 8,functions]
+function which does various operations
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-08"
+-------------------------------------------------------
+"""
+# Imports
+
+from random import randint
+
+def generate_integer_list(n, low, high):
+    """
+    -------------------------------------------------------
+    Generates a list of random integers.
+    Requires import: from random import randint
+    Use: values = generate_integer_list(n, low, high)
+    -------------------------------------------------------
+    Parameters:
+        n - number of values to generate (int, > 0)
+        low - low value range (int)
+        high - high value range (int, > low)
+    Returns:
+        values - a list of random integers (list of int)
+    -------------------------------------------------------
+    """
+    integer_list = []
+    for i in range(n):
+        integer_list.append(randint(low,high))
+    return integer_list
+
+def list_categorize(values):
+    """
+    -------------------------------------------------------
+    Returns data about the categories of values in a list.
+    Use: negatives, positives, zeroes, evens, odds = list_categorize(values)
+    -------------------------------------------------------
+    Parameters:
+        values - a list of values (list of int)
+    Returns:
+        negatives - the number of negative values (int)
+        positives - the number of positive values (int)
+        zeroes - the number of zeroes (int)
+        evens - the number of even values (int)
+        odds - the number of odd values (int)
+    -------------------------------------------------------
+    """
+    
+    total_negatives = 0
+    total_positives = 0
+    total_zeroes = 0
+    total_evens = 0
+    total_odds = 0
+    
+    for x in range(len(values)):
+        if(values[x] == 0):
+            total_zeroes+=1
+        elif(values[x]%2 == 0):
+           total_evens+=1 
+           if(values[x] > 0 ):
+               total_positives+=1
+    return 
+            
+            
+
+
+
+
+    

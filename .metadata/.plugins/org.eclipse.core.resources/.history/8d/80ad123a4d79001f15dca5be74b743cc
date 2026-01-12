@@ -1,0 +1,19 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-09-22"
+-------------------------------------------------------
+"""
+# Imports
+miles = float(input("Enter length in miles: "))
+print(miles)
+kilometers = float(miles * 1.61)
+print(kilometers)
+
+
+print(f'''Length in miles: {int(miles)}
+Length in km: {kilometers:.3f}''')

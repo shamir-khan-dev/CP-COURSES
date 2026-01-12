@@ -1,0 +1,34 @@
+"""
+-------------------------------------------------------
+[Lab 8,functions]
+function which does various operations
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-08"
+-------------------------------------------------------
+"""
+# Imports
+
+from random import randint
+
+def generate_integer_list(n, low, high):
+    """
+    -------------------------------------------------------
+    Generates a list of random integers.
+    Requires import: from random import randint
+    Use: values = generate_integer_list(n, low, high)
+    -------------------------------------------------------
+    Parameters:
+        n - number of values to generate (int, > 0)
+        low - low value range (int)
+        high - high value range (int, > low)
+    Returns:
+        values - a list of random integers (list of int)
+    -------------------------------------------------------
+    """
+    integer_list = []
+    for i in range(n):
+        integer_list.append(randint(low,high))
+    return integer_list

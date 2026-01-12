@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_a08\com.python.pydev.analysis\v2_indexcache
+functions|1732166475000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a08\src\functions.py
+t01|1732162411000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a08\src\t01.py
+t03|1732166623000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a08\src\t03.py
+t02|1732163905000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a08\src\t02.py
+t05|1732166623000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a08\src\t05.py
+t04|1732166623000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a08\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a08\src\functions.py
+2=functions
+-- END DICTIONARY
+-- START TREE 1
+5
+add|1|add_spaces!1^14#5*18@
+com|1|common_end!1^65#5*18@
+has|1|has_word_chain!1^110#5*18@
+plu|1|pluralize!1^40#5*18@
+val|1|valid_isbn!1^83#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,18 @@
+"""
+-------------------------------------------------------
+[Assignment 3, Task 3]
+Calculating the date in specified format by using custom function
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-10-02"
+-------------------------------------------------------
+"""
+# Imports
+
+from functions import extract_date
+
+result = extract_date(19621025)
+
+print(result)

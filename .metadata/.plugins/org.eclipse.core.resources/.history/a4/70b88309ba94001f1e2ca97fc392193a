@@ -1,0 +1,35 @@
+"""
+-------------------------------------------------------
+Midterm AB Task 3 Function Definition
+-------------------------------------------------------
+Author: Shamir Khan
+ID:     169094465
+Email:  khan4465@mylaurier.ca
+__updated__ = "2024-10-24"
+-------------------------------------------------------
+"""
+# Constants
+
+# your constants here
+
+
+def gym_membership_cost():
+    """
+    -------------------------------------------------------
+    Determines the cost of a gym membership. The cost is made up of:
+        base membership cost: $50.00
+        cost per additional class: $20.00
+        loyalty discount 10% only if more than 2 additional classes are purchased and 
+        the member has been with the gym for more than 1 year.
+    The function must ask the user for these inputs.
+    Use: cost = gym_membership_cost()
+    -------------------------------------------------------
+    Returns‌​‌​​​​‌​‌​​​​‌​‌‌​‌​‌​​​​​‌:
+        cost - total cost of the gym membership based upon the base cost, the number of 
+        additional classes purchased, and loyalty discount if applicable (float)
+    -------------------------------------------------------
+    """
+
+    # your code here
+
+    return

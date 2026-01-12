@@ -1,0 +1,47 @@
+"""
+-------------------------------------------------------
+[Lab 6,functions]
+function which does various operations
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-10-23"
+-------------------------------------------------------
+"""
+# Imports
+
+def sum_all(start, finish, increment):
+    """
+    -------------------------------------------------------
+    Sums and returns all numbers from start to finish (inclusive)
+    by increment.
+    Use: total = sum_all(start, finish, increment)
+    -------------------------------------------------------
+    Parameters:
+        start - an integer (int > 0)
+        finish - an integer (int >= start)
+        increment - an integer (int > 0)
+    Returns:
+        total - sum of all numbers from start to
+            finish by increment (int)
+    ------------------------------------------------------
+    
+    
+    total = 0
+    for inc in range(start, finish + 1, increment):
+        total += inc
+    return total
+    """
+    b = 0
+    for x in range(start,finish+1):
+        b+=increment
+    return b
+        
+         
+
+    
+
+
+
+       

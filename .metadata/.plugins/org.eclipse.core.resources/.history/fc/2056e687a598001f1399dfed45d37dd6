@@ -1,0 +1,35 @@
+"""
+-------------------------------------------------------
+[Lab 7,functions]
+function which does various operations
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-01"
+-------------------------------------------------------
+"""
+# Imports
+
+from random import randint
+
+
+def hi_lo_game(high):
+    """
+    -------------------------------------------------------
+    Plays a random higher-lower guessing game.
+    Use: count = hi_lo_game(high)
+    -------------------------------------------------------
+    Parameters:
+        high - maximum random value (int > 1)
+    Returns:
+        count - the number of guesses the user made (int)
+    -------------------------------------------------------
+    
+    """
+    number = 10
+    while(high!=number):
+        guess_again = input("Please try again")
+        
+        
+    

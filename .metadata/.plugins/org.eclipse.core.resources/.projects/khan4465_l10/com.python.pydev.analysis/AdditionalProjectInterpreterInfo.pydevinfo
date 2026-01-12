@@ -1,0 +1,41 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l10\com.python.pydev.analysis\v2_indexcache
+t10|1732335735000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t10.py
+functions|1733835992000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\functions.py
+t01|1733835361000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t01.py
+t11|1732340412000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t11.py
+t13|1732338642000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t13.py
+t04|1732331113000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t04.py
+t07|1732333273000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t07.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+5=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t11.py
+2=functions
+9=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t13.py
+7=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t10.py
+11=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t04.py
+13=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t07.py
+8=t10
+4=t01
+6=t11
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\functions.py
+3=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l10\src\t01.py
+10=t13
+12=t04
+14=t07
+-- END DICTIONARY
+-- START TREE 1
+7
+app|1|append_max_num!1^65#5*18@
+cou|1|count_frequency_word!1^90#5*18@
+cus|2|customer_first!1^41#5*18@customer_record!1^14#5*18@
+fil|1|file_copy!1^134#5*18@
+fin|1|find_longest!1^113#5*18@
+ope|7|open_file!3^15#1*35@open_file!5^16#1*51@open_file!7^15#1*67@open_file_two!9^16#1*83@open_file!11^16#1*99@open_file!9^15#1*83@open_file!13^14#1*115@
+wor|1|word!5^17#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

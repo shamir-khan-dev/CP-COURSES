@@ -1,0 +1,5 @@
+Python is a powerful programming language.
+Python is widely used in web development.
+This is a random line without the keyword.
+Machine learning with Python is fun.
+Another random line here.

@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\sira4138_a09\com.python.pydev.analysis\v2_indexcache
+functions|1732133024000000000|C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\functions.py
+t01|1732133026000000000|C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t01.py
+t03|1731871408000000000|C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t03.py
+t02|1732133026000000000|C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t02.py
+t05|1732133026000000000|C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t05.py
+t04|1732133026000000000|C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+9=C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t05.py
+1=C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\functions.py
+2=functions
+4=t01
+8=t03
+6=t02
+10=t05
+12=t04
+3=C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t01.py
+5=C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t02.py
+7=C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t03.py
+11=C:\Users\shami\OneDrive\Desktop\cp 104\sira4138_a09\src\t04.py
+-- END DICTIONARY
+-- START TREE 1
+5
+fil|3|file_statistics!1^83#5*18@file_top!1^16#5*18@file_top!3^16#5*34@
+lin|1|line_numbering!1^34#5*18@
+rea|1|read_integers!1^55#5*18@
+stu|1|student_stats!1^118#5*18@
+tes|5|test_read_integers!5^21#5*50@test_file_statistics!7^22#5*66@test_file_top!3^33#5*34@test_student_stats!9^22#5*82@test_line_numbering!11^22#5*98@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

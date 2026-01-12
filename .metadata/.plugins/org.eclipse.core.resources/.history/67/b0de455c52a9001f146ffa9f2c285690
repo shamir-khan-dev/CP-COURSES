@@ -1,0 +1,107 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-22"
+-------------------------------------------------------
+"""
+# Imports
+
+
+def customer_first(fh):
+    """
+    -------------------------------------------------------
+    Find the customer with the earliest sign-up date.
+    Assumes file is not empty.
+    Use: result = customer_first(fh)
+    -------------------------------------------------------
+    Parameters:
+        fh - file to search (file handle - already open for reading)
+    Returns:
+        result - the record with the earliest sign-in date (list)
+    -------------------------------------------------------
+    """
+    
+    
+    #list_of_files = fh.readlines()
+    list_of_files = fh.readline()
+
+    while(list_of_files != ""):
+        line = list_of_files.strip().split(",")
+        if(line[4] == "1998-01-03"):
+            return line
+        list_of_files = fh.readline()
+        
+def append_max_num(fh):
+    """
+    -------------------------------------------------------
+    Appends a number to the end of fh. The number appended
+    is the maximum of all the numbers currently in the file.
+    Assumes file is not empty.
+    Use: num = append_max_num(fh)
+    -------------------------------------------------------
+    Parameters:
+        fh - file to search (file handle - already open for reading/writing)
+    Returns:
+        num - the number appended to the file (int)
+    ------------------------------------------------------
+    """
+
+    line = fh.readline()
+    maximum = 0
+    while(line != ""):
+        num = int(line)
+        if(num > maximum):
+            maximum = int(line)
+        line = fh.readline()
+    fh.write(str(maximum))
+    return maximum
+
+def count_frequency_word(fh, word):
+    """
+    -------------------------------------------------------
+    Counts the number of appearances of word in fh.
+    Case is significant - line in file must match word in case.
+    Use: count = count_frequency_word(fh, word)
+    -------------------------------------------------------
+    Parameters:
+        fh - file to search (file handle - already open for reading)
+        word - the word to search for it in fh (str)
+    Returns:
+        count - the number of appearance of word in fh (int)
+    ------------------------------------------------------
+    """
+    total = 0
+    
+    line = fh.readline()
+    while(line != ""):
+        if(line.strip() == word):
+            total= total+ 1
+        line = fh.readline()
+    return total
+
+def find_longest(fh):
+    """
+    -------------------------------------------------------
+    Finds the last word with longest length in fh.
+    Assumes file is not empty.
+    Use: word = find_longest(fh)
+    -------------------------------------------------------
+    Parameters:
+        fh - file to search (file handle - already open for reading)
+    Returns:
+        word - the last word with the longest length in fh (str)
+    ------------------------------------------------------
+    """
+    line = fh.readline()
+    word = "a"
+    while(line != ""):
+        if(len(line.strip()) > len(word) ):
+
+        
+    
+    
+        

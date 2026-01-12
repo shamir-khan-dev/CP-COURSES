@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l08\com.python.pydev.analysis\v2_indexcache
+functions|1731124930000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l08\src\functions.py
+t13|1731124637000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l08\src\t13.py
+t04|1731117151000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l08\src\t04.py
+t15|1731124637000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l08\src\t15.py
+t07|1731119131000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l08\src\t07.py
+t09|1731119469000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l08\src\t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l08\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+gen|1|generate_integer_list!1^16#5*18@
+lis|1|list_categorize!1^36#5*18@
+man|1|many_search!1^72#5*18@
+sym|1|symmetric_difference!1^121#5*18@
+uni|1|union!1^96#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

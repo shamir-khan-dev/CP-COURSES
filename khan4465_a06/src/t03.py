@@ -1,0 +1,16 @@
+"""
+-------------------------------------------------------
+[Assignment 6, Task 3]
+loan calculator
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-03"
+-------------------------------------------------------
+"""
+# Imports
+
+from functions import interest_table
+
+print(interest_table(100, 10, 50))

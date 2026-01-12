@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\practive for exam\com.python.pydev.analysis\v2_indexcache
+functions|1733837948000000000|C:\Users\shami\OneDrive\Desktop\cp 104\practive for exam\src\functions.py
+t03|1733836595000000000|C:\Users\shami\OneDrive\Desktop\cp 104\practive for exam\src\t03.py
+t02|1733837822000000000|C:\Users\shami\OneDrive\Desktop\cp 104\practive for exam\src\t02.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=C:\Users\shami\OneDrive\Desktop\cp 104\practive for exam\src\functions.py
+2=functions
+4=t02
+3=C:\Users\shami\OneDrive\Desktop\cp 104\practive for exam\src\t02.py
+-- END DICTIONARY
+-- START TREE 1
+2
+cus|1|customer_by_id!1^13#5*18@
+fil|1|file!3^15#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

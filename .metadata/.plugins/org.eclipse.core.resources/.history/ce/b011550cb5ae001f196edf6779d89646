@@ -1,0 +1,16 @@
+"""
+-------------------------------------------------------
+[Lab 11, Task 1]
+finding the first customer 
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-29"
+-------------------------------------------------------
+"""
+# Imports
+
+from functions import generate_matrix_num
+
+print(generate_matrix_num(3, 4, -10, 10, "float"))

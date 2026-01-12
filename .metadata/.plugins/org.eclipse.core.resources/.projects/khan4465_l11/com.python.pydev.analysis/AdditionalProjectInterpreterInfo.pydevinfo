@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l11\com.python.pydev.analysis\v2_indexcache
+functions|1732934341000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l11\src\functions.py
+t01|1732928696000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l11\src\t01.py
+t03|1732931122000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l11\src\t03.py
+t13|1732934310000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l11\src\t13.py
+t06|1732932284000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l11\src\t06.py
+t08|1732934103000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l11\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=functions
+4=t03
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l11\src\functions.py
+3=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l11\src\t03.py
+-- END DICTIONARY
+-- START TREE 1
+4
+fin|1|find_less!1^114#5*18@
+gen|1|generate_matrix_num!1^16#5*18@
+mat|3|matrix_scalar_multiply!1^146#5*18@matrix_stats!1^83#5*18@matrix!3^18#1*35@
+pri|1|print_matrix_num!1^50#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

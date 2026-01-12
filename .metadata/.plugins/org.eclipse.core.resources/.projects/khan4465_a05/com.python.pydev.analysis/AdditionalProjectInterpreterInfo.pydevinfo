@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_a05\com.python.pydev.analysis\v2_indexcache
+functions|1730146959000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a05\src\functions.py
+t01|1730084042000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a05\src\t01.py
+t03|1730140687000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a05\src\t03.py
+t02|1730084384000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a05\src\t02.py
+t05|1730147061000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a05\src\t05.py
+t04|1730144597000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a05\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_a05\src\functions.py
+2=functions
+-- END DICTIONARY
+-- START TREE 1
+4
+arr|1|arrow_up!1^49#5*18@
+cal|2|calc_factorial!1^14#5*18@calories_treadmill!1^31#5*18@
+mul|1|multiplication_table!1^70#5*18@
+ran|1|range_addition!1^90#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

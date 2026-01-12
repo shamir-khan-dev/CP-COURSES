@@ -1,0 +1,17 @@
+"""
+-------------------------------------------------------
+Midterm Task 2 Testing
+-------------------------------------------------------
+Author:  Sukhjit Singh Sehra
+ID:      11111111
+Email:   ssehra@wlu.ca
+__updated__ = "2024-10-22"
+-------------------------------------------------------
+"""
+# Imports
+from t02_functions import movie_rating
+# First test
+rating = float(input("Rating: "))
+category = movie_rating(rating)
+print(f"movie_rating({rating}) -> Category: {category}")
+

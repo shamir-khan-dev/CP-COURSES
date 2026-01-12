@@ -1,0 +1,31 @@
+"""
+-------------------------------------------------------
+[Assignment 5,functions]
+function which does various operations
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-10-27"
+-------------------------------------------------------
+"""
+# Imports
+
+def calc_factorial(number):
+    """
+    -------------------------------------------------------
+    Calculates and returns the factorial of number.
+    Use: product = calc_factorial(number)
+    -------------------------------------------------------
+    Parameters:
+        number - number to factorial (int > 0)
+    Returns:
+        product - number! (int)
+    ------------------------------------------------------
+    """
+    total = 2
+    for x in range(2,number):
+        total*= x  
+    return total
+        
+        

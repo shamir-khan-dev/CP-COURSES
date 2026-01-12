@@ -1,0 +1,54 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  shamir khan
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+Version: 2024-09-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales: $32000
+Projected Tax Report
+--------------------------
+Total sales:   $ 32000
+Annual tax:    % 18.5
+--------------------------
+Tax:           $  5920.0 
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive digit number: 25
+The difference of the digits of 25 is -3
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD: 19621025
+The reformatted date: 1962/10/25
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of flyers: 1400
+Number of delivery people: 12
+Flyers per delivery person: 116
+Flyers left over: 8
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+enter foundation length: 2
+enter foundation width: 4
+enter foundation height: 0.6
+enter wall height: 2.5
+Cost of concrete ($/m^3): 125
+Cost of concrete ($/m^3): 94
+Concrete needed for foundation (m^3): 4.8
+Cost of concrete: $600.00
+Bricks needed for walls (m^2): 30.0 
+Cost of bricks: $2,820.00
+Total cost: $3,420.00
+-------------------------------------------------------
+
+

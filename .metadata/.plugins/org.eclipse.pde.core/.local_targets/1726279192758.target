@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?>
+<target name="Running Platform">
+	<locations>
+		<location path="${eclipse_home}" type="Profile"/>
+	</locations>
+	<environment>
+		<arch>x86_64</arch>
+		<os>win32</os>
+		<ws>win32</ws>
+		<nl>en_US</nl>
+	</environment>
+	<launcherArgs>
+		<vmArgs>-Dosgi.requiredJavaVersion=17 -Dosgi.dataAreaRequiresExplicitInit=true -Dorg.eclipse.swt.graphics.Resource.reportNonDisposed=true --add-modules=ALL-SYSTEM -Dorg.slf4j.simpleLogger.defaultLogLevel=off -Djava.security.manager=allow -Declipse.p2.max.threads=10 -Doomph.update.url=https://download.eclipse.org/oomph/updates/milestone/latest -Doomph.redirection.index.redirection=index:/-&gt;https://raw.githubusercontent.com/eclipse-oomph/oomph/master/setups/ -Xmx4g -Doomph.redirection.jdt=https://raw.githubusercontent.com/eclipse-jdt/eclipse.jdt/master/org.eclipse.jdt.releng/JDT.setup-&gt;file:/C:/Users/abcd/eclipse/git/eclipse.jdt/org.eclipse.jdt.releng/JDT.setup --add-opens=java.base/java.lang=ALL-UNNAMED -Dosgi.requiredJavaVersion=17 -Dosgi.dataAreaRequiresExplicitInit=true -Dorg.eclipse.swt.graphics.Resource.reportNonDisposed=true --add-modules=ALL-SYSTEM -Dorg.slf4j.simpleLogger.defaultLogLevel=off -Djava.security.manager=allow</vmArgs>
+	</launcherArgs>
+</target>

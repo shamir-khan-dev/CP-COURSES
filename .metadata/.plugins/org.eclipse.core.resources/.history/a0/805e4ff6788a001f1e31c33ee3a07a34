@@ -1,0 +1,25 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-10-14"
+-------------------------------------------------------
+"""
+# Imports
+
+
+def twoSum(nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: List[int]
+        """
+    for x in range(len(nums)):
+        for y in range(1,len(nums)):
+            if(nums[x] + nums[y] == target):
+                    return [x, y]
+
+print(twoSum([2,5,5,11],10))

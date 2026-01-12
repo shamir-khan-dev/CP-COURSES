@@ -1,0 +1,19 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-09-22"
+-------------------------------------------------------
+"""
+# Imports
+miles = int(input("Enter length in miles: "))
+kilometers = miles * 1.61
+
+kilometers_exact = int(kilometers * 1000) / 1000
+
+
+print(f'''Length in miles: {miles}
+Length in km: {kilometers_exact:.3f}''')

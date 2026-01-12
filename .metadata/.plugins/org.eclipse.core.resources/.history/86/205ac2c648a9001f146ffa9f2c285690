@@ -1,0 +1,53 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-22"
+-------------------------------------------------------
+"""
+# Imports
+from lib2to3.pgen2.token import NOTEQUAL
+
+def customer_first(fh):
+    """
+    -------------------------------------------------------
+    Find the customer with the earliest sign-up date.
+    Assumes file is not empty.
+    Use: result = customer_first(fh)
+    -------------------------------------------------------
+    Parameters:
+        fh - file to search (file handle - already open for reading)
+    Returns:
+        result - the record with the earliest sign-in date (list)
+    -------------------------------------------------------
+    """
+    
+    
+    #list_of_files = fh.readlines()
+    list_of_files = fh.readline()
+
+    while(list_of_files != ""):
+        line = list_of_files.strip().split(",")
+        if(line[4] == "1998-01-03"):
+            return line
+        list_of_files = fh.readline()
+        
+def append_max_num(fh):
+    """
+    -------------------------------------------------------
+    Appends a number to the end of fh. The number appended
+    is the maximum of all the numbers currently in the file.
+    Assumes file is not empty.
+    Use: num = append_max_num(fh)
+    -------------------------------------------------------
+    Parameters:
+        fh - file to search (file handle - already open for reading/writing)
+    Returns:
+        num - the number appended to the file (int)
+    ------------------------------------------------------
+    """
+
+    #return list_of_files[3].strip().split(",")

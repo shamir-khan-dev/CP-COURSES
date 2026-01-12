@@ -1,0 +1,58 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  shamir khan
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+Version: 2024-09-22
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "program"?
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language:
+input: Get data from the keyboard, a file, or some other device.
+output: Display data on the screen or send data to a file or other device.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and execute the appropriate code.
+repetition: Perform some action repeatedly, usually with some variation.
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill 
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your age? 60
+What is your favourite band? The Beatles
+
+I am  60  years old and The Beatles is my favourite band.
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Please enter Mortgage principal amount: 200000
+How long will the mortgage last: 20
+whats the yearly interest rate: 5
+The monthly payments are: $ 1319.9114784333176
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Type the total numbers of flyers: 10000
+Type the total numbers of volunteers: 22
+Flyers per volunteer: 454
+Flyers left over: 12
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Price of the food: 10
+How much was the tax percent: 5.5
+How much was the tip percent: 6.5
+Subtotal: $ 10
+     Tax: $ 0.55
+     Tip: $ 0.65
+------------------
+   Total: $ 11.2
+-------------------------------------------------------
+
+

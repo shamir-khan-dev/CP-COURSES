@@ -1,0 +1,169 @@
+"""
+-------------------------------------------------------
+[Lab 6,functions]
+function which does various operations
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-10-23"
+-------------------------------------------------------
+"""
+# Imports
+
+
+def sum_all(start, finish, increment):
+    """
+    -------------------------------------------------------
+    Sums and returns all numbers from start to finish (inclusive)
+    by increment.
+    Use: total = sum_all(start, finish, increment)
+    -------------------------------------------------------
+    Parameters:
+        start - an integer (int > 0)
+        finish - an integer (int >= start)
+        increment - an integer (int > 0)
+    Returns:
+        total - sum of all numbers from start to
+            finish by increment (int)
+    ------------------------------------------------------
+    """
+    total = 0
+    for x in range(start, finish +1 ,increment ):
+            total+= x
+    return total
+
+def draw_triangle(height, char):
+    """
+    -------------------------------------------------------
+    Prints a triangle of height characters using
+    the char character.
+    Use: draw_triangle(height, char)
+    -------------------------------------------------------
+    Parameters:
+        height - number of characters high (int > 0)
+        char - the character to draw with (str, len() == 1)
+    Returns:
+        None
+    ------------------------------------------------------
+    """
+    a = 1
+    b = ""
+    for y in range(1,height+1):
+        space = " " * (height - y)
+        b+= space + char*a + '\n'
+        a+=2
+    print(b)
+    return None
+
+def draw_arrow(width, char):
+    """
+    -------------------------------------------------------
+    Prints a triangle of width characters using
+    the char character.
+    Use: draw_arrow(width, char)
+    -------------------------------------------------------
+    Parameters:
+        width - number of characters wide (int > 0)
+        char - the character to draw with (str, len() == 1)
+    Returns:
+        None
+    ------------------------------------------------------
+    """
+    end = (width*2)
+    k = 0
+    for z in range(1,end):
+        if(z < (end/2)+1):
+            print(char*z)
+        else:
+            k+=2
+            print((char*(z-k)))
+    return None
+           
+
+def gic(value, years, rate):
+    """
+    -------------------------------------------------------
+    Calculates and prints a table of how much a GIC (Guaranteed
+    Income Certificate) is worth over a number of years, and
+    returns its final value.
+    Use: final_value = gic(value, years, rate)
+    -------------------------------------------------------
+    Parameters:
+        value - GICs initial value (int > 0)
+        years - number of years to maturity (int > 0)
+        rate - percent increase value per year (float > 0)
+    Returns:
+        final_value - the final value of the GIC (float)
+    ------------------------------------------------------
+    """
+    final = float(value)
+    
+    # Print table headers
+    print("Year       Value $")
+    print("------------------")
+    
+    for year in range(years+1):
+        # Print year and value formatted with two decimal places and commas
+        print(f"{year:>2}{final:>16,.2f}")
+        # Update final for the next year
+        final = float((final * (rate / 100)) + final)
+    
+    # Format the final value with commas and two decimal places
+    
+    return None
+
+
+def statistics(n):
+    """
+    -------------------------------------------------------
+    Asks a user to enter n values, then calculates and returns
+    the minimum, maximum, total, and average of those values.
+    Use: minimum, maximum, total, average = statistics(n)
+    -------------------------------------------------------
+    Parameters:
+        n - number of values to process (int > 0)
+    Returns:
+        minimum - smallest of n values (float)
+        maximum - largest of n values (float)
+        total - total of n values (float)
+        average - average of n values (float)
+    ------------------------------------------------------
+    """
+    value = float(input("Please enter a number"))
+    smallest = value
+    biggest = value
+    total = value
+    
+    
+    for num in range(n-1):
+        value = float(input("Please enter a number"))
+        if(value < smallest):
+            smallest = value
+        if(value > biggest):
+            biggest = value
+        total+= value
+    return smallest,biggest,total,total/n
+
+def draw_rectangle(height, width, char):
+    """
+    -------------------------------------------------------
+    Prints a rectangle of height and width characters using
+    the char character.
+    Use: draw_rectangle(height, width, char)
+    -------------------------------------------------------
+    Parameters:
+        height - number of characters high (int > 0)
+        width - number of characters wide (int > 0)
+        char - the character to draw with (str, len() == 1)
+    Returns:
+        None
+    ------------------------------------------------------
+    """
+    
+    for hei in range(height):
+        print(char*width)
+            
+        
+    
+    

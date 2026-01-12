@@ -1,0 +1,15 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-10-25"
+-------------------------------------------------------
+"""
+# Imports
+
+from functions import retirement
+
+print(retirement(25, 56000, 1.5))

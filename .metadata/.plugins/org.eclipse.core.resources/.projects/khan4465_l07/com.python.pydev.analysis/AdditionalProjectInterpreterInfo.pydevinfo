@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l07\com.python.pydev.analysis\v2_indexcache
+t10|1730518979000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l07\src\t10.py
+functions|1730518882000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l07\src\functions.py
+t01|1730513291000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l07\src\t01.py
+t02|1730511271000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l07\src\t02.py
+t05|1730515830000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l07\src\t05.py
+t08|1730517566000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l07\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l07\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+bud|1|budget!1^111#5*18@
+emp|1|employee_payroll!1^149#5*18@
+hi_|1|hi_lo_game!1^17#5*18@
+pos|1|positive_statistics!1^71#5*18@
+pow|1|power_of_two!1^51#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

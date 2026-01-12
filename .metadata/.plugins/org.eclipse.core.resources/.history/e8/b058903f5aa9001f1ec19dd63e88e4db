@@ -1,0 +1,18 @@
+"""
+-------------------------------------------------------
+[Lab 10, Task 11]
+finding the longest last word
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-22"
+-------------------------------------------------------
+"""
+# Imports
+
+from functions import find_longest
+
+open_file = open("words.txt","r")
+
+print(find_longest(open_file))

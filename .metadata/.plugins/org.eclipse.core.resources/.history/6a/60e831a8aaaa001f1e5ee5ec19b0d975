@@ -1,0 +1,39 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  shamir khan 
+ID:      169094465
+Email:   khan4465@mylaurier.ca
+__updated__ = "2024-11-24"
+-------------------------------------------------------
+"""
+# Imports
+
+def file_top(file_handle, count):
+    """
+    -------------------------------------------------------
+    Prints first count lines of file_handle. Line numbering starts at 0.
+    If length of file is shorter than count, stops printing after
+    last line of file.
+    Use: file_top(file_handle, count)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to process (file handle - open for reading)
+        count - number of lines to print (int > 0)
+    Returns:
+        None
+    -------------------------------------------------------
+    """
+    
+    line = file_handle.readline()
+    lines = file_handle.readlines()
+    
+    num = 0
+    if(count > len(lines)):
+        count = len(lines) -1
+    while(num > count):
+        print(line.strip())
+        line = file_handle.newline()
+        num+=1
+    return None

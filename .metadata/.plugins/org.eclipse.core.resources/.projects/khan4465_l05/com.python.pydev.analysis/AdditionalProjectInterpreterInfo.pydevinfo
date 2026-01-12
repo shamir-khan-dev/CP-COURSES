@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l05\com.python.pydev.analysis\v2_indexcache
+functions|1728702555000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l05\src\functions.py
+t11|1728701590000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l05\src\t11.py
+t14|1728702707000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l05\src\t14.py
+t02|1728690006000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l05\src\t02.py
+t05|1728697829000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l05\src\t05.py
+t09|1728700061000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l05\src\t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l05\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+get|1|get_weight!1^16#5*18@
+is_|1|is_leap!1^42#5*18@
+qua|1|quadrant!1^96#5*18@
+tic|1|ticket!1^128#5*18@
+win|1|wind_speed!1^67#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

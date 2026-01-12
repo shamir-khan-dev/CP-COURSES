@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\shami\OneDrive\Desktop\cp 104\.metadata\.plugins\org.eclipse.core.resources\.projects\khan4465_l02\com.python.pydev.analysis\v2_indexcache
+t10|1726885818000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t10.py
+t01|1726885929000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t01.py
+t05|1726872657000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t05.py
+t07|1737737275000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t07.py
+t06|1737684403000000000|C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+9=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t07.py
+3=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t10.py
+4=t10
+2=t01
+6=t05
+1=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t01.py
+10=t07
+8=t06
+5=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t05.py
+7=C:\Users\shami\OneDrive\Desktop\cp 104\khan4465_l02\src\t06.py
+-- END DICTIONARY
+-- START TREE 1
+15
+cel|1|celsius!1^13#1*19@
+cos|2|cost_of_food!3^13#1*35@cost!3^15#1*35@
+fah|1|fahrenheit!1^16#1*19@
+hou|1|hours_worked_lastWeek!5^15#1*51@
+int|2|interest_rate_real!7^22#1*67@interest_rate!7^20#1*67@
+lef|1|left_over!9^19#1*83@
+mon|1|monthly_mortgage!7^24#1*67@
+mor|4|mortgage_payment!7^26#1*67@mortgage_principal_amount!7^13#1*67@mortgage!7^28#1*67@mortgage_time!7^15#1*67@
+num|3|number_of_flyers_per_volunteer!9^17#1*83@Number_of_volunteers!9^15#1*83@number_of_flyers!9^13#1*83@
+pay|1|pay!5^13#1*51@
+tax|3|tax!3^19#1*35@tax_percentage!3^21#1*35@tax_percent!3^17#1*35@
+tip|3|tip_percent!3^23#1*35@tip!3^25#1*35@tip_percentage!3^27#1*35@
+tot|2|total!3^29#1*35@total_pay!5^17#1*51@
+wat|1|WATER!1^15#1*19@
+yea|1|yearly_interest_rate!7^17#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

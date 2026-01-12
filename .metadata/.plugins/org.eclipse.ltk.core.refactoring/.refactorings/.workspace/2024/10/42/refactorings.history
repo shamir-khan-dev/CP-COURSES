@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sum of 2 leet code&apos; to &apos;Leet Code Problems&apos;" description="Rename resource &apos;sum of 2 leet code&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/sum of 2 leet code" name="Leet Code Problems" stamp="1728943475271" updateReferences="true"/>
+</session>
