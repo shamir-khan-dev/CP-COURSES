@@ -1,0 +1,26 @@
+public static boolean validSn(final String sn) {
+    // A valid SN should be 11 characters long: SN/1234-567
+    if (sn == null || sn.length() != 11) {
+        return false;
+    }
+
+    // check the fixed characters
+    if (!sn.substring(0, 1).equals("S")) return false;
+    if (!sn.substring(1, 2).equals("N")) return false;
+    if (!sn.substring(2, 3).equals("/")) return false;
+    if (!sn.substring(7, 8).equals("-")) return false;
+
+    // check the four digits after SN/
+    if (!Character.isDigit(sn.charAt(3))) return false;
+    if (!Character.isDigit(sn.charAt(4))) return false;
+    if (!Character.isDigit(sn.charAt(5))) return false;
+    if (!Character.isDigit(sn.charAt(6))) return false;
+
+    // check the three digits after the dash
+    if (!Character.isDigit(sn.charAt(8))) return false;
+    if (!Character.isDigit(sn.charAt(9))) return false;
+    if (!Character.isDigit(sn.charAt(10))) return false;
+
+    // if all checks passed
+    return true;
+}
